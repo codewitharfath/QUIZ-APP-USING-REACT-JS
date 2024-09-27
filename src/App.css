@@ -1,0 +1,53 @@
+body{
+  height: 100vh;
+  display: flex;
+  background-color:gray;
+  justify-content: center;
+  align-items: center;
+}
+.quiz-app{
+  width: 500px;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: #fff;
+
+}
+.quiz-section{
+  text-align: center;
+}
+
+.quiz-section h1{
+  color: aqua;
+}
+
+.options{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  margin-bottom: 15px;
+
+}
+button{
+  background-color: rgb(24, 47, 221);
+  border-radius: 50px;
+  color: white;
+  cursor: pointer;
+  font-size: 15px;
+  padding: 10px 20px;
+}
+span{
+  font-weight: 800;
+  font-size: 17px;
+}
+.score-section{
+  text-align: center;
+}
+.score-section p{
+   font-size: 25px;
+}
+.score-section button{
+  background-color: orange;
+  color: white;
+  padding: 10px 23px;
+}

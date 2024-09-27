@@ -1,0 +1,18 @@
+[
+    {
+        "id":1,
+        "question":"What is the capital of France",
+        "option":["berlin","Madrid","Paris","Rome"],
+        "currentOption":"Paris"
+    },{
+        "id":2,
+        "question":"Which Planet is Know as the Red Plant?",
+        "option":["Venus","Mars","Jupiter","Earth"],
+        "currentOption":"Mars"
+    },{
+        "id":3,
+        "question":"Who Wrote 'Romeo and Juliet'?",
+        "option":["thouseef","saif","kaif","nouman"],
+        "currentOption":"thouseef"
+    }
+]
